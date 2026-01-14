@@ -1,4 +1,4 @@
-#Vehicles Chatbot - Ai Assistant
+### Vehicles Chatbot - Ai Assistant
 
 Bu proje, Python ve modern Büyük Dil Modelleri (LLM) kullanılarak geliştirilmiş, araçlar hakkında teknik ve genel bilgi sağlayan akıllı bir asistandır. Kullanıcıların tercihine göre farklı yapay zeka modellerinden yanıt alabilmesine olanak tanıyan hibrit bir yapıya sahiptir.
 
@@ -15,13 +15,15 @@ Projede *Güvenli Kod Geliştirme (Secure Coding)* prensipleri uygulanmıştır:
 - *Girdi Doğrulama:* Kullanıcıdan gelen sorguların işlenme sürecinde temel güvenlik kontrolleri ön planda tutulmuştur.
 
 
-## Uygulama İçi Görüntü
+## Gemini seçimi ile Uygulama İçi Görüntü
 
-- Aşağıdaki görselde, asistanın  VAG grubu motorları hakkındaki teknik bir soruya verdiği yanıt görülmektedir (Gemini):
+- Aşağıdaki görselde, asistanın  VAG grubu motorları hakkındaki teknik bir soruya verdiği yanıt görülmektedir:
 
 ![Araç Chatbot Arayüzü](ss1.png)
 
-- Aşağıdaki görselde, asistanın VAG grubu motorları hakkındaki teknik bir soruya verdiği yanıt görülmektedir (Huggingface):
+## Huggingface seçimi ile Uygulama İçi Görüntü
+
+- Aşağıdaki görselde, asistanın VAG grubu motorları hakkındaki teknik bir soruya verdiği yanıt görülmektedir:
 
 ![Araç Chatbot Arayüzü](ss2.png)
 
