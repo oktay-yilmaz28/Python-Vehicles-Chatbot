@@ -14,6 +14,12 @@ Projede *Güvenli Kod Geliştirme (Secure Coding)* prensipleri uygulanmıştır:
 - *Hassas Veri Yönetimi:* API anahtarları kod içerisine gömülmemiş (hard-coded), .env dosyaları ve ortam değişkenleri (environment variables) kullanılarak sistemden izole edilmiştir.
 - *Girdi Doğrulama:* Kullanıcıdan gelen sorguların işlenme sürecinde temel güvenlik kontrolleri ön planda tutulmuştur.
 
+## Kullanılan Teknolojiler
+
+- *Dil:* Python
+- *Yapay Zeka API'leri:* Google Gemini API, Hugging Face Inference API
+- *Modeller:* Gemini Flash, DeepSeek-R1
+- *Başlıca Kütüphaneler:* python-dotenv, requests, streamlit, os, google.generativeai
 
 ## Gemini seçimi ile Uygulama İçi Görüntü
 
